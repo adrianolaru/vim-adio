@@ -106,7 +106,7 @@ if &t_Co > 255
   "hl-Pmenu           Popup menu: normal item.
   hi Pmenu            ctermfg=none ctermbg=none cterm=none
   "hl-PmenuSel        Popup menu: selected item.
-  hi PmenuSel         ctermfg=none ctermbg=none cterm=none
+  hi PmenuSel         ctermfg=248 ctermbg=235 cterm=none
   "hl-PmenuSbar       Popup menu: scrollbar.
   hi PmenuSbar        ctermfg=none ctermbg=none cterm=none
   "hl-PmenuThumb      Popup menu: Thumb of the scrollbar.
